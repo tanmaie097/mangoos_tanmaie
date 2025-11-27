@@ -31,3 +31,4 @@ joined = df1.join(df2, on="id", how="right")
 joined.show()
 
 spark.stop()
+
