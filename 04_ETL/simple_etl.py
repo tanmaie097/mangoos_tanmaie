@@ -6,23 +6,22 @@ import pyarrow.parquet as pq
 #csv, parquet paths 
 raw_csv = Path("/Users/tanmaie/Desktop/magnoos/exercises/01_pandas/bigmart_data.csv")
 out_path = Path("/Users/tanmaie/Desktop/magnoos/exercises/04_ETL/cleaned.parquet")
+
+#extracting rows from csv
 def extract_csv(csv_path):
     with csv_path.open("r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         return list(reader)
 
+#transforming data: dropping the null
 def transform(rows):
-    """
-  cleaning data
-  dropping rows with null
-    """
     cleaned = []
     for row in rows:
         if all(row[col].strip() != "" for col in row):
             cleaned.append(row)
-
     return cleaned
 
+#taking the transformed data and pushing into parquet
 def load(cleaned, out_path):
     table = pa.Table.from_pylist(cleaned)
     pq.write_table(table, out_path)
