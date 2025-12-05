@@ -1,0 +1,17 @@
+/bin/sh: /Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/run_etl.sh: No such file or directory
+/bin/bash: /Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/run.sh: Operation not permitted
+/bin/bash: /Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/run.sh: Operation not permitted
+Raw data saved to: /Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/raw/raw_news_2025-12-04.json
+Reading raw file: /Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/raw/raw_news_2025-12-04.json
+Rows after dropping null: 97
+Traceback (most recent call last):
+  File "/Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/transform.py", line 42, in <module>
+    with open(csv_file, "w", newline="", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/output/news_data_2025-12-04.csv'
+ETL Completed Successfully!
+Raw data saved to: /Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/raw/raw_news_2025-12-04.json
+Reading raw file: /Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/raw/raw_news_2025-12-04.json
+Rows after dropping null: 97
+CSV saved to: /Users/tanmaie/Desktop/magnoos/exercises/04_ETL/news_etl/output/news_data_2025-12-04.csv
+ETL Completed Successfully!
