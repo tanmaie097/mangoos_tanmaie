@@ -1,0 +1,3 @@
+tanmaie is learning hadoop
+hadoop stores files in blocks
+hadoop uses namenode and datanode

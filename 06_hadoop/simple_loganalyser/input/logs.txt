@@ -1,0 +1,12 @@
+INFO 2025 System started
+WARN 2025 Disk space low
+ERROR 2025 DataNode failed
+INFO 2025 Block created
+INFO 2025 Replication completed
+ERROR 2025 Timeout
+WARN 2025 Network unstable
+WARN 2025 Network unstable
+WARN 2025 Disk space low
+WARN 2025 Network unstable
+ERROR 2025 NameNode failed
+INFO 2025 Replication completed
