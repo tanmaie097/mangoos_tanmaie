@@ -20,3 +20,5 @@ code to send the results back to my local system:
 
   hdfs dfs -cat /user/tanmaie/logs/output/part-00000 \
   > ~/Desktop/magnoos/exercises/06_hadoop/simple_loganalyser/output/results.txt
+
+hdfs dfs -copyToLocal, -copyFromLocal 
