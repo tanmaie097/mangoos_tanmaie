@@ -1,0 +1,35 @@
+First Name,Gender,Start Date,Last Login Time,Salary,Bonus %,Senior Management,Team
+Frances,Female,8/8/2002,6:51 AM,139852,7.524,true,Business Development
+Louise,Female,8/12/1980,9:01 AM,63241,15.132,true,
+Julie,Female,10/26/1997,3:19 PM,102508,12.637,true,Legal
+Brandon,Male,12/1/1980,1:08 AM,112807,17.492,true,Human Resources
+Gary,Male,1/27/2008,11:40 PM,109831,5.831,false,Sales
+Kimberly,Female,1/14/1999,7:13 AM,41426,14.543,true,Finance
+Lillian,Female,6/5/2016,6:09 AM,59414,1.256,false,Product
+Jeremy,Male,9/21/2010,5:56 AM,90370,7.369,false,Human Resources
+Shawn,Male,12/7/1986,7:45 PM,111737,6.414,false,Product
+Diana,Female,10/23/1981,10:27 AM,132940,19.082,false,Client Services
+Donna,Female,7/22/2010,3:48 AM,81014,1.894,false,Product
+Lois,,4/22/1995,7:18 PM,64714,4.934,true,Legal
+Matthew,Male,9/5/1995,2:12 AM,100612,13.645,false,Marketing
+Joshua,,3/8/2012,1:58 AM,90816,18.816,true,Client Services
+,Male,6/14/2012,4:19 PM,125792,5.042,,
+John,Male,7/1/1992,10:08 PM,97950,13.873,false,Client Services
+,Male,10/8/2012,1:12 AM,37076,18.576,,Client Services
+Craig,Male,2/27/2000,7:45 AM,37598,7.757,true,Marketing
+Scott,,7/11/1991,6:58 PM,122367,5.218,false,Legal
+Terry,Male,11/27/1981,6:30 PM,124008,13.464,true,Client Services
+Benjamin,Male,1/26/2005,10:06 PM,79529,7.008,true,Legal
+Christina,Female,8/6/2002,1:19 PM,118780,9.096,true,Engineering
+Joyce,,2/20/2005,2:40 PM,88657,12.752,false,Product
+,Male,8/21/1998,2:27 PM,122340,6.417,,
+Jean,Female,12/18/1993,9:07 AM,119082,16.18,false,Business Development
+Jerry,Male,1/10/2004,12:56 PM,95734,19.096,false,Client Services
+Theresa,Female,10/10/2006,1:12 AM,85182,16.675,false,Sales
+Rachel,Female,2/16/2009,8:47 PM,142032,12.599,false,Business Development
+Linda,Female,10/19/1981,8:49 PM,57427,9.557,true,Client Services
+Stephanie,Female,9/13/1986,1:52 AM,36844,5.574,true,Business Development
+,Male,1/29/2016,2:33 AM,122173,7.797,,Client Services
+Michael,Male,10/10/2008,11:25 AM,99283,2.665,true,Distribution
+Christine,,6/28/2015,1:08 AM,66582,11.308,true,Business Development
+Beverly,Female,9/9/1998,8:26 PM,121918,15.835,false,Legal
